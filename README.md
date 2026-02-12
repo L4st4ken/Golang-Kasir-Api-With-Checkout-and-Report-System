@@ -1,7 +1,5 @@
 # Golang-Kasir-Api-With-Checkout-and-Report-System
 
-Sumber Belajar: CodeWithUmam
-
 Backend API sistem kasir menggunakan Go, PostgreSQL (Supabase),
 dengan fitur:
 - Product CRUD
